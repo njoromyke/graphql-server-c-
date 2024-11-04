@@ -1,0 +1,64 @@
+# Build Folders
+bin/
+obj/
+
+# .NET Packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# User-Specific Files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs and Database Files
+*.log
+*.ldf
+*.mdf
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE Configurations
+.vscode/
+.idea/
+.vs/
+
+# Configuration Files
+appsettings.Development.json
+appsettings.Staging.json
+appsettings.Production.json
+
+# Rider and JetBrains
+.idea/
+*.sln.iml
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Other Build Artifacts
+*.dll
+*.exe
+*.cache
+*.pdb
+*.pbl
+*.pyo
+*.pyc
+*.bak
+*.swp
+*.tmp
+*.pid
+*.seed
+
+# Npm Packages (for projects with frontend frameworks)
+node_modules/
+
+# Publish Output
+publish/
+out/
