@@ -26,7 +26,7 @@ Thumbs.db
 
 # IDE Configurations
 .vscode/
-.idea/
+.idea
 .vs/
 
 # Configuration Files
